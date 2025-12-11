@@ -19,17 +19,12 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+<div align="center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT license][license-shield]][license-url]
-
-<!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <!-- <a href="https://github.com/NTU-RL2025-02/RecoveryDagger">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a> -->
 
 <h1 align="center">RecoveryDagger</h1>
 

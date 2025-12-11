@@ -26,8 +26,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT license][license-shield]][license-url]
 
-<br />
-
 <h1 align="center">RecoveryDagger</h1>
 
   <p align="center">
